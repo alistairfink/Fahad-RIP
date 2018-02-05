@@ -1,0 +1,12 @@
+{
+  "expo": {
+  	"name":"Fahad RIP",
+  	"icon": "./Assets/images/icon.png",
+  	"version":"1.0.0",
+  	"slug": "fahad-rip",
+    "sdkVersion": "23.0.0",
+    "android": {
+    	"package": "com.alistairfink.fahadrip"
+    }
+  }
+}
